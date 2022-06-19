@@ -1,0 +1,17 @@
+DIRECTIONS: Let's discuss some of our favorite things!
+
+      1. Create an h2 tag that contains the text "Favorite Foods".
+      2. Create an unordered list of at least 3 of your favorite foods
+      3. Make an h2 header that contains the text "Favorite Animals"
+      4. Make an ordered list of at least 3 of your favorite animals
+      5. Make an h3 header that sayd "Cute Animals"
+      6. Are you a cat or a dog person? Why not both? Make a paragraph tag containing the text "It's raining cats and dogs!"
+      7. Make an image tag with the alt attribute set to "Dog Picture" and the src attribute set to "http://place-puppy.com/200x200"
+      8. Make an image tag with the alt attribute set to "Cat Picture" and the src attribute set to "http://placekitten.com/200/200"
+      9. Don't forget to give credit! Let's make a link tag (<a>) that credits placekitten. The href attribute should be set to the website address "http://placekitten.com" and the link text (between the opening and closing tags) should be "Place Kitten".
+      10. Repeat step 9 for place-puppy
+      11. Wrap your two links from steps 9 and 10 in a paragraph (<p>) tag to place them on their own line
+
+      BONUS:
+      - The numbers on the placeholder links represent the the size in pixels of the images. Try changing the numbers to see different images of cats and dogs in different sizes
+      - Explore a little! There are tons of image placeholder sites - not just ones for cats and dogs, but for many different interests. Find one that you really like and put an example in
